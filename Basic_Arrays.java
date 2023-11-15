@@ -58,12 +58,5 @@ public class Basic_Arrays
         }
     }
 
-    // public int[] Update(int[] arr1)
-    // {
-    //     int[] UpdatedA = new int[arr1.length];
-
-
-    //     return updtedA;
-    // }
     
 }
